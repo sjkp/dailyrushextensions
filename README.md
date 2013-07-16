@@ -3,8 +3,7 @@ dailyrushextensions
 
 dailyrush extensions - a chrome extensions that improves the usability of www.dailyrush.dk
 
-Features: 
-Open external links in a new tab
+Features: Open external links in a new tab
 
 To come
 Show reply’s as hover text. 
